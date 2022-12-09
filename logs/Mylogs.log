@@ -1,0 +1,1121 @@
+[INFO ] 2022-12-04 13:02:16.466 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:02:16.481 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:02:16.619 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:02:16.620 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:02:17.229 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 13:03:09.836 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:03:10.047 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 13:03:10.443 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 13:03:10.446 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-04 13:03:10.447 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 13:03:18.428 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:03:39.441 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 13:03:39.953 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:03:40.653 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 13:03:46.111 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:03:46.124 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:03:46.257 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:03:46.257 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:03:46.901 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 13:04:14.454 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:04:14.620 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 13:04:14.833 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 13:04:14.836 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-04 13:04:14.837 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 13:04:18.576 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:23:02.059 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 13:23:34.636 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:23:35.235 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 13:26:02.261 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:26:02.269 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:26:02.406 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:26:02.406 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:26:55.516 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:26:55.526 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:26:55.661 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:26:55.662 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:28:04.175 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:28:04.190 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:28:04.333 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:28:04.333 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:28:04.666 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:28:05.297 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 13:28:11.413 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:28:11.424 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:28:11.573 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:28:11.573 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:28:11.985 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:28:12.614 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 13:29:46.136 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:29:46.150 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:29:46.293 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:29:46.296 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:29:46.679 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:29:47.333 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 13:30:19.616 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:30:19.648 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:30:19.805 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:30:19.805 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:30:20.463 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 13:31:32.726 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:31:32.938 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 13:31:33.042 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 13:31:33.164 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 13:31:33.297 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 13:31:33.372 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 13:31:33.372 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 13:31:33.378 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 13:31:33.379 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 13:32:51.632 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:33:21.525 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 13:33:21.556 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 13:33:21.713 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 13:33:21.713 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 13:33:22.398 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 13:33:43.943 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 13:34:16.751 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:34:17.450 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 13:35:09.795 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 13:35:09.839 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 13:35:10.359 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 13:35:10.998 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 18:34:20.602 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 18:34:20.624 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 18:34:20.767 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 18:34:20.767 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 18:34:21.958 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:35:08.072 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:35:08.250 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:35:08.366 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:35:08.468 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 18:35:08.568 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 18:35:08.648 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:35:08.654 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:35:08.656 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:35:08.657 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:35:11.843 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:38:39.289 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:38:39.386 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:38:39.465 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 18:38:39.581 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 18:38:39.670 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:38:39.672 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:38:39.672 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:38:39.673 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:38:44.465 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:38:44.567 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:38:44.690 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:38:44.763 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 18:38:44.844 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 18:38:44.947 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:38:44.950 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:38:44.951 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:38:44.952 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:38:48.651 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:38:48.749 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:38:48.835 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:38:48.931 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 18:38:49.029 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 18:38:49.106 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:38:49.108 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:38:49.108 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:38:49.426 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 18:38:50.320 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 18:45:50.698 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 18:45:50.717 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 18:45:50.859 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 18:45:50.859 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 18:45:51.582 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:46:16.476 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:46:16.662 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:46:16.689 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:46:59.641 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 18:46:59.756 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 18:46:59.884 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:46:59.892 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:46:59.897 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:46:59.898 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:47:03.892 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:47:11.970 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:47:11.997 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:47:13.353 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 18:47:13.487 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 18:47:13.598 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:47:13.602 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:47:13.603 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:47:13.604 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:47:16.519 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:47:16.669 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:47:16.693 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:47:19.783 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 18:47:19.952 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 18:47:20.098 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:47:20.103 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:47:20.104 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:47:20.105 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:47:23.138 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:47:23.224 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:47:23.245 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:47:24.901 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 18:47:25.061 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 18:47:25.137 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:47:25.140 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:47:25.140 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:47:25.617 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 18:47:26.426 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 18:49:42.781 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 18:49:42.808 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 18:49:42.950 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 18:49:42.951 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 18:49:43.707 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:50:08.738 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:50:08.884 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:50:09.073 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:50:09.170 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 18:50:09.299 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 18:50:09.375 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:50:09.379 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:50:09.382 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:50:09.382 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:50:12.369 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:50:22.690 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:50:22.884 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:50:22.960 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 18:50:23.139 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 18:50:23.260 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:50:23.264 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:50:23.264 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:50:23.265 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:50:26.313 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:50:26.784 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:50:26.956 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:50:27.028 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 18:50:27.114 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 18:50:27.183 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:50:27.185 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:50:27.185 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:50:27.186 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 18:50:30.334 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:50:30.449 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:50:30.605 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 18:50:30.683 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 18:50:30.794 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 18:50:30.914 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 18:50:30.916 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:50:30.917 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 18:50:31.232 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 18:50:32.167 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 18:57:09.551 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 18:57:09.578 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 18:57:09.718 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 18:57:09.718 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 18:57:10.416 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 18:57:35.649 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:57:35.797 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 18:57:36.089 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 18:57:36.092 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-04 18:57:36.093 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-04 18:57:41.704 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 18:58:46.922 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 18:58:47.227 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 18:58:47.827 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 19:14:31.060 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 19:14:31.066 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 19:14:31.211 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 19:14:31.211 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 19:14:31.812 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 19:15:06.136 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:15:06.271 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:15:06.530 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 19:15:06.734 [main] BaseClass - Enter Mobile Number:9.382204358E9
+[INFO ] 2022-12-04 19:15:06.853 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 19:15:06.976 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 19:15:06.982 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 19:15:06.982 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 19:15:06.982 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 19:15:09.868 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:15:24.690 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:15:24.875 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 19:15:25.032 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 19:15:25.133 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 19:15:25.200 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 19:15:25.202 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 19:15:25.203 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 19:15:25.203 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 19:15:28.173 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:15:28.261 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:15:28.455 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 19:15:28.536 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-04 19:15:28.655 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 19:15:28.754 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 19:15:28.758 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 19:15:28.759 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 19:15:28.760 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 19:15:31.856 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:15:31.960 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:15:32.186 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 19:15:32.353 [main] BaseClass - Enter Mobile Number:9.382204358E9
+[INFO ] 2022-12-04 19:15:32.498 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-04 19:15:32.605 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 19:15:32.608 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 19:15:32.609 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 19:15:33.046 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 19:15:33.758 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 19:18:20.913 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 19:18:20.930 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 19:18:21.075 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 19:18:21.075 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 19:18:21.724 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 19:18:50.607 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:18:50.726 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:18:50.958 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-04 19:18:51.072 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-04 19:18:51.170 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-04 19:18:51.261 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-04 19:18:51.265 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 19:18:51.268 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-04 19:18:51.269 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-04 19:18:54.611 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:19:31.739 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 19:20:04.614 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 19:20:05.303 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 19:31:02.256 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 19:31:02.271 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 19:31:02.407 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 19:31:02.408 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 19:31:03.166 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 19:31:03.826 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 19:31:26.212 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 19:31:26.242 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 19:31:26.378 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 19:31:26.378 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 19:31:27.192 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 19:31:27.821 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 19:34:09.523 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 19:34:09.543 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 19:34:09.706 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 19:34:09.706 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 19:34:10.366 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-04 19:34:50.424 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:34:50.610 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:34:50.872 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 19:34:51.135 [main] BaseClass - Screenshot is  Taken
+[INFO ] 2022-12-04 19:34:51.135 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-04 19:34:51.135 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-04 19:34:54.509 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:35:47.986 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 19:35:48.375 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 19:35:48.977 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 19:39:01.152 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 19:39:01.167 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 19:39:01.312 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 19:39:01.313 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 19:39:02.000 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-04 19:39:25.968 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:39:26.101 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 19:39:26.364 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 19:39:26.366 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-04 19:39:26.368 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-04 19:39:29.268 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 19:39:39.587 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-04 19:39:40.136 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 19:39:40.795 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 20:23:10.698 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 20:23:10.722 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 20:23:10.859 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 20:23:10.859 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 20:23:11.018 [main] BaseClass - Executing TestCase :Search_From_Suggestions
+[INFO ] 2022-12-04 20:23:37.484 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 20:23:37.623 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 20:23:37.798 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 20:23:37.806 [main] BaseClass - Test Case Ended  :Search_From_Suggestions
+[INFO ] 2022-12-04 20:23:38.278 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 20:23:38.957 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-04 20:39:45.125 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-04 20:39:45.144 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-04 20:39:45.292 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-04 20:39:45.292 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-04 20:39:45.516 [main] BaseClass - Executing TestCase :Search_From_Suggestions
+[INFO ] 2022-12-04 20:40:11.768 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-04 20:40:11.896 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-04 20:40:12.258 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-04 20:40:12.260 [main] BaseClass - Test Case Ended  :Search_From_Suggestions
+[INFO ] 2022-12-04 20:40:12.630 [main] BaseClass - Saving reports
+[INFO ] 2022-12-04 20:40:13.326 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 11:31:49.478 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 11:31:49.493 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 11:31:49.625 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 11:31:49.626 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 11:31:50.462 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:32:53.358 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:32:53.462 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 11:32:53.659 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:32:53.748 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 11:32:53.821 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 11:32:53.889 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:32:53.893 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:32:53.895 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:32:53.896 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:32:56.838 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:32:59.891 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 11:33:00.065 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:33:00.120 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 11:33:00.208 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 11:33:00.271 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:33:00.274 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:33:00.274 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:33:00.275 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:33:03.276 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:33:03.551 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 11:33:03.743 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:33:03.809 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 11:33:03.872 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 11:33:03.921 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:33:03.923 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:33:03.923 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:33:03.924 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:33:06.925 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:36:21.246 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 11:36:21.431 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:36:21.508 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 11:36:21.589 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 11:36:21.659 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:36:21.661 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:36:21.661 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:36:21.954 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 11:36:22.796 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 11:40:18.649 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 11:40:18.670 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 11:40:18.797 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 11:40:18.798 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 11:40:43.578 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:41:28.156 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:41:28.256 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 11:41:28.461 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:41:28.554 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 11:41:28.623 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 11:41:28.691 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:41:28.694 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:41:28.696 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:41:28.697 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:41:31.977 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:46:06.349 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 11:46:06.953 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 11:46:07.706 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 11:46:17.509 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 11:46:17.526 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 11:46:17.665 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 11:46:17.665 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 11:46:42.596 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:47:27.618 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:47:27.728 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 11:47:27.922 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:47:28.021 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 11:47:28.087 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 11:47:28.153 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:47:28.157 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:47:28.159 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:47:28.160 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:47:29.736 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:52:23.443 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 11:52:23.918 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 11:52:24.912 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 11:52:32.562 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 11:52:32.581 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 11:52:32.707 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 11:52:32.707 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 11:52:57.609 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:53:42.527 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:53:42.725 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:53:42.815 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 11:53:42.913 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 11:53:42.973 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:53:42.978 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:53:42.979 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:53:42.980 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:53:44.556 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:53:44.821 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:53:44.892 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 11:53:45.023 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 11:53:45.111 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:53:45.115 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:53:45.116 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:53:45.117 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:53:46.108 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:53:46.343 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:53:46.402 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 11:53:46.482 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 11:53:46.552 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:53:46.554 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:53:46.554 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:53:46.555 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 11:53:47.802 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:53:48.063 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 11:53:48.156 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 11:53:48.245 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 11:53:48.319 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 11:53:48.321 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:53:48.321 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 11:53:48.647 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 11:53:49.459 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 11:59:11.248 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 11:59:11.268 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 11:59:11.415 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 11:59:11.415 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 11:59:12.005 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 11:59:57.153 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:59:57.344 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:59:57.345 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 11:59:57.345 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 11:59:58.653 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 11:59:58.922 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 11:59:58.923 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 11:59:59.220 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 11:59:59.940 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:03:09.823 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:03:09.840 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:03:09.977 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:03:09.977 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:03:10.530 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 12:03:57.203 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:03:57.454 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 12:03:57.749 [main] BaseClass - Screenshot is  Taken
+[INFO ] 2022-12-05 12:03:57.751 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 12:03:57.752 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 12:03:59.102 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:03:59.389 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:03:59.390 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 12:03:59.708 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:04:00.408 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:27:19.645 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:27:19.671 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:27:19.804 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:27:19.804 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:27:19.978 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 12:28:06.052 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:28:18.128 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 12:28:18.543 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:28:19.148 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:28:27.264 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:28:27.284 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:28:27.424 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:28:27.424 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:28:27.621 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 12:29:12.570 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:29:12.678 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 12:29:13.972 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:29:13.975 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 12:29:14.320 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:29:15.187 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:30:43.295 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:30:43.314 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:30:43.453 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:30:43.453 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:30:44.259 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 12:31:30.544 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:31:30.667 [main] BaseClass - PopUp is closed
+[INFO ] 2022-12-05 12:31:31.916 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:31:31.918 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 12:31:31.919 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 12:31:33.326 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:41:03.445 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:41:03.460 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:41:03.585 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:41:03.585 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:41:04.325 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 12:41:50.952 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:41:51.162 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 12:41:51.245 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 12:41:51.315 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 12:41:51.380 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 12:41:51.383 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:41:51.384 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 12:41:51.385 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 12:41:52.912 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:41:53.165 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 12:41:53.242 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 12:41:53.364 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 12:41:53.453 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 12:41:53.456 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:41:53.456 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 12:41:53.457 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 12:41:54.584 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:41:54.778 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 12:41:54.863 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 12:41:54.949 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 12:41:55.021 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 12:41:55.023 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:41:55.023 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 12:41:55.024 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 12:41:56.146 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:41:56.369 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 12:41:56.468 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 12:41:56.575 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 12:41:56.650 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 12:41:56.651 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:41:56.651 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 12:41:56.954 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:41:57.745 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:44:04.993 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:44:05.012 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:44:05.151 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:44:05.152 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:44:05.317 [main] BaseClass - Executing TestCase :Search_From_Suggestions
+[INFO ] 2022-12-05 12:44:20.971 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 12:44:21.606 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:44:22.312 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:44:49.439 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:44:49.714 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:44:49.717 [main] BaseClass - Test Case Ended  :Search_From_Suggestions
+[INFO ] 2022-12-05 12:44:50.010 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:44:50.707 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 12:52:28.154 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 12:52:28.164 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 12:52:28.294 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 12:52:28.294 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 12:52:28.874 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 12:53:13.818 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:53:14.152 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 12:53:14.215 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 12:53:14.282 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 12:53:14.382 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 12:53:14.385 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 12:53:14.387 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 12:53:14.388 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 12:53:16.168 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 12:53:45.762 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 12:54:18.351 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 12:54:18.935 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:05:26.659 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:05:26.674 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:05:26.812 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:05:26.812 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:05:27.394 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:06:13.954 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:06:14.193 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:06:28.442 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 13:06:28.517 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 13:06:28.572 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:06:28.576 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:06:28.577 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:06:28.578 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:06:31.187 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:06:31.406 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:06:31.475 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 13:06:31.553 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 13:06:31.627 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:06:31.630 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:06:31.630 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:06:31.631 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:06:34.582 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:06:34.818 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:06:34.877 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 13:06:34.957 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 13:06:35.021 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:06:35.022 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:06:35.022 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:06:35.023 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:06:36.260 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:06:36.458 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:06:36.542 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 13:06:36.627 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 13:06:36.708 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:06:36.709 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:06:36.710 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:06:37.015 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:06:37.746 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:06:48.032 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:06:48.044 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:06:48.189 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:06:48.189 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:06:48.834 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 13:08:14.914 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:08:16.103 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:08:16.106 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 13:08:16.106 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 13:08:17.413 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:08:18.779 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 13:08:18.996 [main] BaseClass - Screenshot is  Taken
+[INFO ] 2022-12-05 13:08:18.997 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 13:08:19.334 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:08:20.034 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:09:34.294 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:09:34.310 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:09:34.444 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:09:34.445 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:09:34.988 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 13:10:19.706 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:10:21.064 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:10:21.065 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 13:10:21.066 [main] BaseClass - Executing TestCase :Search_Using_Icon
+[INFO ] 2022-12-05 13:10:22.377 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:10:23.677 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:10:23.677 [main] BaseClass - Test Case Ended  :Search_Using_Icon
+[INFO ] 2022-12-05 13:10:23.979 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:10:24.665 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:10:41.263 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:10:41.285 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:10:41.424 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:10:41.425 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:10:42.022 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:11:28.652 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:11:28.907 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:13:06.043 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 13:13:06.111 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 13:13:06.175 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:13:06.178 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:13:06.180 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:13:06.180 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:13:07.859 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:13:08.146 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:13:08.239 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 13:13:08.382 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 13:13:08.499 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:13:08.502 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:13:08.502 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:13:08.503 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:13:09.762 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:13:09.976 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:13:10.024 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 13:13:10.107 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 13:13:10.173 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:13:10.175 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:13:10.175 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:13:10.175 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:13:11.369 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:13:11.582 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:13:11.648 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 13:13:11.752 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 13:13:11.814 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:13:11.818 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:13:11.818 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:13:12.163 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:13:12.857 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:13:51.123 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:13:51.148 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:13:51.285 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:13:51.285 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:13:51.875 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 13:14:36.734 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:14:38.014 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 13:14:38.235 [main] BaseClass - Screenshot is  Taken
+[INFO ] 2022-12-05 13:14:38.236 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 13:14:38.236 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 13:14:39.636 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:14:40.862 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 13:14:41.065 [main] BaseClass - Screenshot is  Taken
+[INFO ] 2022-12-05 13:14:41.065 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 13:14:41.318 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:14:42.028 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:22:22.757 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:22:22.784 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:22:22.923 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:22:22.923 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:22:23.512 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:23:08.329 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:23:08.549 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:23:08.657 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 13:23:08.734 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 13:23:08.786 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:23:08.789 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:23:08.792 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:23:08.793 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:23:09.943 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:23:10.157 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:23:10.216 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 13:23:10.293 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 13:23:10.357 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:23:10.358 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:23:10.359 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:23:10.360 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:23:11.371 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:23:11.581 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:23:11.633 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 13:23:11.694 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 13:23:11.750 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:23:11.751 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:23:11.751 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:23:11.752 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 13:23:12.879 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:23:13.086 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 13:23:13.163 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 13:23:13.253 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 13:23:13.323 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 13:23:13.324 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:23:13.325 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 13:23:13.651 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:23:14.342 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:23:41.979 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:23:41.990 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:23:42.126 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:23:42.126 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:23:42.691 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 13:24:36.585 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:24:36.775 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:24:36.777 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 13:24:36.777 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 13:24:38.593 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:24:38.785 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:24:38.786 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 13:24:39.106 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:24:39.784 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:35:46.488 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:35:46.502 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:35:46.660 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:35:46.660 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:35:46.858 [main] BaseClass - Executing TestCase :Search_From_Suggestions
+[INFO ] 2022-12-05 13:36:39.586 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:36:47.898 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:36:47.900 [main] BaseClass - Test Case Ended  :Search_From_Suggestions
+[INFO ] 2022-12-05 13:36:48.333 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:36:49.070 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 13:41:33.564 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 13:41:33.579 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 13:41:33.727 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 13:41:33.727 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 13:41:33.832 [main] BaseClass - Executing TestCase :Search_From_Suggestions
+[INFO ] 2022-12-05 13:42:28.891 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 13:42:30.645 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 13:42:30.645 [main] BaseClass - Test Case Ended  :Search_From_Suggestions
+[INFO ] 2022-12-05 13:42:30.892 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 13:42:31.674 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 15:34:40.566 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 15:34:40.600 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 15:34:40.741 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 15:34:40.741 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 15:34:40.950 [main] BaseClass - Executing TestCase :Validate_login
+[INFO ] 2022-12-05 15:35:29.174 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 15:35:29.698 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 15:35:29.698 [main] BaseClass - Test Case Ended  :Validate_login
+[INFO ] 2022-12-05 15:35:30.176 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 15:35:30.935 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:03:51.126 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:03:51.158 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:03:51.315 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:03:51.315 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:03:51.933 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 16:04:45.716 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:04:46.172 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:04:46.181 [main] BaseClass - Test Case Ended  :Search_Using_click
+[INFO ] 2022-12-05 16:04:46.182 [main] BaseClass - Executing TestCase :Search_Using_click
+[INFO ] 2022-12-05 16:04:48.593 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:05:44.819 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 16:06:17.604 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:06:18.284 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:15:51.683 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:15:51.697 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:15:51.816 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:15:51.816 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:15:52.420 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:16:23.022 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:16:23.430 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:16:23.631 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 16:16:23.767 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 16:16:23.891 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:16:23.898 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:16:23.900 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:16:23.900 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:16:26.644 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:19:12.802 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:19:12.811 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:19:12.941 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:19:12.941 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:19:13.599 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:19:55.213 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:19:55.442 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:19:55.573 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 16:19:55.707 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 16:19:55.847 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:19:55.852 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:19:55.854 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:19:55.855 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:19:58.995 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:20:09.161 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:20:09.253 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 16:20:09.380 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 16:20:09.500 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:20:09.502 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:20:09.502 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:20:09.503 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:20:26.309 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:20:40.959 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:20:41.036 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 16:20:41.169 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 16:20:41.306 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:20:41.311 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:20:41.311 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:20:41.313 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:20:44.588 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:20:53.929 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:20:54.060 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 16:20:54.204 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 16:20:54.287 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:20:54.289 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:20:54.289 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:20:54.778 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:20:55.584 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:21:04.993 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 16:21:05.552 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:21:06.333 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:23:59.488 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:23:59.501 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:23:59.642 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:23:59.642 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:23:59.753 [main] BaseClass - Executing TestCase :Validate_login
+[INFO ] 2022-12-05 16:24:28.224 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:24:28.945 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:24:28.948 [main] BaseClass - Test Case Ended  :Validate_login
+[INFO ] 2022-12-05 16:24:29.423 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:24:30.135 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:25:21.306 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:25:21.321 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:25:21.442 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:25:21.442 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:25:22.039 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:27:06.749 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:27:10.970 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:27:11.072 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 16:27:11.141 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 16:27:11.234 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:27:11.237 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:27:11.238 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:27:11.238 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:27:12.928 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:27:30.820 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:27:30.924 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 16:27:31.101 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 16:27:31.198 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:27:31.200 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:27:31.201 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:27:31.202 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:27:34.216 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:27:38.502 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:27:38.563 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 16:27:38.661 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 16:27:38.778 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:27:38.779 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:27:38.779 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:27:38.780 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 16:27:41.568 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:27:55.812 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 16:27:55.919 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 16:27:56.025 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 16:27:56.108 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 16:27:56.109 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 16:27:56.109 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 16:27:56.557 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:27:57.361 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:52:05.548 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:52:05.565 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:52:05.699 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:52:05.699 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:52:06.401 [main] BaseClass - Executing TestCase :User_Registration
+[INFO ] 2022-12-05 16:52:29.510 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 16:52:30.052 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:52:30.703 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:52:57.737 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:52:57.748 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:52:57.882 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:52:57.882 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:52:58.694 [main] BaseClass - Executing TestCase :User_Registration
+[INFO ] 2022-12-05 16:53:27.229 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:55:06.539 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:55:06.563 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:55:06.747 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:55:06.747 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:55:07.543 [main] BaseClass - Executing TestCase :User_Registration
+[INFO ] 2022-12-05 16:55:52.497 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:56:42.529 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 16:56:43.113 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:56:43.831 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:56:49.890 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 16:56:49.909 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 16:56:50.060 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 16:56:50.060 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 16:56:50.853 [main] BaseClass - Executing TestCase :User_Registration
+[INFO ] 2022-12-05 16:56:56.040 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 16:57:15.994 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 16:57:28.858 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:57:29.553 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 16:57:41.739 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 16:57:42.432 [main] BaseClass - Screenshot is  Taken
+[INFO ] 2022-12-05 16:57:42.434 [main] BaseClass - Test Case Ended  :User_Registration
+[INFO ] 2022-12-05 16:57:42.966 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 16:57:43.687 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 17:00:52.284 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 17:00:52.303 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 17:00:52.475 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 17:00:52.475 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 17:00:53.308 [main] BaseClass - Executing TestCase :User_Registration
+[INFO ] 2022-12-05 17:00:54.213 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 17:00:54.263 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 17:00:54.710 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 17:00:55.287 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 17:01:57.439 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 17:01:57.456 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 17:01:57.586 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 17:01:57.587 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 17:01:58.402 [main] BaseClass - Executing TestCase :User_Registration
+[INFO ] 2022-12-05 17:02:45.488 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 17:02:46.954 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 17:02:46.958 [main] BaseClass - Test Case Ended  :User_Registration
+[INFO ] 2022-12-05 17:02:47.428 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 17:02:48.241 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 19:45:49.952 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 19:45:49.963 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 19:45:50.098 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 19:45:50.098 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 19:45:50.800 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:46:46.072 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:46:46.336 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:46:46.462 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 19:46:46.547 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 19:46:46.670 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:46:46.677 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:46:46.680 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:46:46.681 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:46:48.136 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:47:52.089 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 19:48:24.778 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 19:48:25.488 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 19:50:19.738 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 19:50:19.747 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 19:50:19.886 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 19:50:19.886 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 19:50:20.570 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:50:44.678 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:50:44.938 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:50:45.090 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 19:50:45.224 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 19:50:45.350 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:50:45.351 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:50:45.360 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:50:45.361 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:50:46.927 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:50:54.540 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:50:54.618 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 19:50:54.763 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 19:50:54.835 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:50:54.837 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:50:54.837 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:50:54.838 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:50:56.035 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:50:57.330 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:50:57.402 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 19:50:57.505 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 19:50:57.610 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:50:57.613 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:50:57.614 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:50:57.614 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:50:58.771 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:50:59.657 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:50:59.728 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 19:50:59.908 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 19:51:00.052 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:51:00.052 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:51:00.052 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:51:00.575 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 19:51:01.314 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 19:51:38.986 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 19:51:39.004 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 19:51:39.155 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 19:51:39.155 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 19:51:39.791 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:52:06.937 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:52:07.167 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:52:07.256 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 19:52:07.373 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 19:52:07.498 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:52:07.506 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:52:07.509 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:52:07.510 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:52:08.891 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:58:30.532 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 19:58:30.554 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 19:58:30.704 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 19:58:30.706 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 19:58:31.373 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:59:16.138 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 19:59:16.344 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 19:59:16.457 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 19:59:16.558 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 19:59:16.674 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 19:59:16.681 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 19:59:16.684 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 19:59:16.686 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 19:59:18.284 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:01:30.775 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 20:01:31.206 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 20:01:31.863 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 20:01:33.852 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 20:01:34.228 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 20:01:34.931 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 20:07:00.362 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 20:07:00.390 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 20:07:00.527 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 20:07:00.527 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 20:07:01.195 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:07:27.728 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:07:27.959 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 20:07:28.123 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 20:07:28.247 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 20:07:28.362 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 20:07:28.367 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 20:07:28.371 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 20:07:28.372 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:07:32.014 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:11:21.980 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 20:11:21.994 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 20:11:22.143 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 20:11:22.143 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 20:11:22.867 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:11:49.444 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:11:49.700 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 20:11:49.795 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 20:11:49.931 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 20:11:50.066 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 20:11:50.072 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 20:11:50.078 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 20:11:50.079 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:11:51.444 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:14:07.650 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 20:14:07.666 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 20:14:07.791 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 20:14:07.791 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 20:14:08.658 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:14:35.345 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:14:35.592 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 20:14:35.716 [main] BaseClass - Enter Mobile Number:9382204358
+[INFO ] 2022-12-05 20:14:35.828 [main] BaseClass - Enter Password: 
+[INFO ] 2022-12-05 20:14:35.949 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 20:14:35.953 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 20:14:35.955 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 20:14:35.955 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:14:37.291 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:16:11.200 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 20:16:11.563 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 20:16:12.357 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 20:16:21.590 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 20:16:21.933 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 20:16:22.654 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 20:24:12.337 [main] BaseClass - Click Login Button
+[INFO ] 2022-12-05 20:24:12.442 [main] BaseClass - Enter Mobile Number: 
+[INFO ] 2022-12-05 20:24:12.622 [main] BaseClass - Enter Password:Rudra2023
+[INFO ] 2022-12-05 20:24:12.733 [main] BaseClass - Click on Submit Button
+[INFO ] 2022-12-05 20:24:12.737 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 20:24:12.737 [main] BaseClass - Test Case Ended  :login
+[INFO ] 2022-12-05 20:24:12.738 [main] BaseClass - Executing TestCase :login
+[INFO ] 2022-12-05 20:24:42.593 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:26:49.660 [main] BaseClass - Test Case Failled
+[INFO ] 2022-12-05 20:27:22.480 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 20:27:23.513 [main] BaseClass - Closing Browser
+[INFO ] 2022-12-05 20:36:29.463 [main] BaseClass - Starting Browser
+[INFO ] 2022-12-05 20:36:29.478 [main] BaseClass - Managing Timeouts
+[INFO ] 2022-12-05 20:36:29.623 [main] BaseClass - Initilising Driver
+[INFO ] 2022-12-05 20:36:29.624 [main] BaseClass - Maximize browser window
+[INFO ] 2022-12-05 20:36:29.898 [main] BaseClass - Executing TestCase :Search_According_to_Brand
+[INFO ] 2022-12-05 20:37:16.879 [main] BaseClass - Open Application URl
+[INFO ] 2022-12-05 20:37:18.717 [main] BaseClass - Test case successfully Executed
+[INFO ] 2022-12-05 20:37:18.719 [main] BaseClass - Test Case Ended  :Search_According_to_Brand
+[INFO ] 2022-12-05 20:37:18.970 [main] BaseClass - Saving reports
+[INFO ] 2022-12-05 20:37:19.651 [main] BaseClass - Closing Browser

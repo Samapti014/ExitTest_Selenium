@@ -1,0 +1,190 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>22/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Dec 09 11:55:41 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>73 seconds (73141 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Flipkart_TestCases.TC_03_SearchTest.Search_Using_Icon()'><b>Search_Using_Icon</b><br>Test class: Flipkart_TestCases.TC_03_SearchTest<br>Parameters: Woman Tops, Yes</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_03_SearchTest@6ebf0f36</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_06_Add_to_CartTest.Get_Total_Wishlist_items()'><b>Get_Total_Wishlist_items</b><br>Test class: Flipkart_TestCases.TC_06_Add_to_CartTest</td>
+<td></td>
+<td>9</td>
+<td>Flipkart_TestCases.TC_06_Add_to_CartTest@72c28d64</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_02_LoginTest.login()'><b>login</b><br>Test class: Flipkart_TestCases.TC_02_LoginTest<br>Parameters:  ,  , yes</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_02_LoginTest@2e8e8225</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_05_Account_ActivityTest.Explore_Gift_Cards()'><b>Explore_Gift_Cards</b><br>Test class: Flipkart_TestCases.TC_05_Account_ActivityTest</td>
+<td></td>
+<td>4</td>
+<td>Flipkart_TestCases.TC_05_Account_ActivityTest@2807bdeb</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_03_SearchTest.Search_Using_click()'><b>Search_Using_click</b><br>Test class: Flipkart_TestCases.TC_03_SearchTest<br>Parameters: Laptops, Yes</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_03_SearchTest@6ebf0f36</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_05_Account_ActivityTest.Set_personal_information()'><b>Set_personal_information</b><br>Test class: Flipkart_TestCases.TC_05_Account_ActivityTest<br>Parameters: Samapti, Rudra, yes</td>
+<td></td>
+<td>4</td>
+<td>Flipkart_TestCases.TC_05_Account_ActivityTest@2807bdeb</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_07_LogoTest.verify_logo_text()'><b>verify_logo_text</b><br>Test class: Flipkart_TestCases.TC_07_LogoTest</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_07_LogoTest@6492fab5</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_04_Become_a_sellerTest.Verify_Seller_Person_NameTest()'><b>Verify_Seller_Person_NameTest</b><br>Test class: Flipkart_TestCases.TC_04_Become_a_sellerTest</td>
+<td></td>
+<td>7</td>
+<td>Flipkart_TestCases.TC_04_Become_a_sellerTest@18920cc</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_01_RegistrationTest.User_Registration()'><b>User_Registration</b><br>Test class: Flipkart_TestCases.TC_01_RegistrationTest<br>Parameters: 9832845457, 987067, Rudra2023, yes</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_01_RegistrationTest@1b765a2c</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_05_Account_ActivityTest.Explore_My_Coupons()'><b>Explore_My_Coupons</b><br>Test class: Flipkart_TestCases.TC_05_Account_ActivityTest</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_05_Account_ActivityTest@2807bdeb</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_02_LoginTest.login()'><b>login</b><br>Test class: Flipkart_TestCases.TC_02_LoginTest<br>Parameters:  , Rudra2023, yes</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_02_LoginTest@2e8e8225</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_05_Account_ActivityTest.Explore_My_Notifications()'><b>Explore_My_Notifications</b><br>Test class: Flipkart_TestCases.TC_05_Account_ActivityTest</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_05_Account_ActivityTest@2807bdeb</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_02_LoginTest.login()'><b>login</b><br>Test class: Flipkart_TestCases.TC_02_LoginTest<br>Parameters: 9382204358, Rudra2023, yes</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_02_LoginTest@2e8e8225</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_07_LogoTest.verify_flipkart_plus()'><b>verify_flipkart_plus</b><br>Test class: Flipkart_TestCases.TC_07_LogoTest</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_07_LogoTest@6492fab5</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_03_SearchTest.Search_Using_Icon()'><b>Search_Using_Icon</b><br>Test class: Flipkart_TestCases.TC_03_SearchTest<br>Parameters: Moisturizer, yes</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_03_SearchTest@6ebf0f36</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_05_Account_ActivityTest.Manage_Address()'><b>Manage_Address</b><br>Test class: Flipkart_TestCases.TC_05_Account_ActivityTest<br>Parameters: Samapti, 93822204358, 713343, Kulti, Kulti Sripur Road, yes</td>
+<td></td>
+<td>3</td>
+<td>Flipkart_TestCases.TC_05_Account_ActivityTest@2807bdeb</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_03_SearchTest.Search_According_to_Brand()'><b>Search_According_to_Brand</b><br>Test class: Flipkart_TestCases.TC_03_SearchTest</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_03_SearchTest@6ebf0f36</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_03_SearchTest.Search_Using_click()'><b>Search_Using_click</b><br>Test class: Flipkart_TestCases.TC_03_SearchTest<br>Parameters: Mobile, yes</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_03_SearchTest@6ebf0f36</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_08_LogOutTest.Log_Out()'><b>Log_Out</b><br>Test class: Flipkart_TestCases.TC_08_LogOutTest</td>
+<td></td>
+<td>8</td>
+<td>Flipkart_TestCases.TC_08_LogOutTest@2c5529ab</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_02_LoginTest.login()'><b>login</b><br>Test class: Flipkart_TestCases.TC_02_LoginTest<br>Parameters: 9382204358,  , yes</td>
+<td></td>
+<td>1</td>
+<td>Flipkart_TestCases.TC_02_LoginTest@2e8e8225</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_03_SearchTest.Search_From_DropDown()'><b>Search_From_DropDown</b><br>Test class: Flipkart_TestCases.TC_03_SearchTest</td>
+<td></td>
+<td>2</td>
+<td>Flipkart_TestCases.TC_03_SearchTest@6ebf0f36</td></tr>
+<tr>
+<td title='Flipkart_TestCases.TC_06_Add_to_CartTest.Add_To_Cart_From_WishList()'><b>Add_To_Cart_From_WishList</b><br>Test class: Flipkart_TestCases.TC_06_Add_to_CartTest</td>
+<td></td>
+<td>3</td>
+<td>Flipkart_TestCases.TC_06_Add_to_CartTest@72c28d64</td></tr>
+</table><p>
+</body>
+</html>
