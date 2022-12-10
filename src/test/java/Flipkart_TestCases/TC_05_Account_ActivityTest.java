@@ -161,13 +161,13 @@ public class TC_05_Account_ActivityTest extends BaseClassTest {
 		  
 		 	 } 
 	 
-	@Test(priority=10,enabled=true,groups={"AccountActivity"})
+	@Test(priority=10,enabled=false,groups={"AccountActivity"})
 	 public static void Explore_Gift_Cards() throws InterruptedException {
 		 AccountSettingsPage page =  new AccountSettingsPage();
 		 
 		  OpenUrl();
 		  
-		 // Valid_login( driver,testlog ,log);
+		  //Valid_login( driver,testlog ,log);
 		  WebDriverWait Wait = new WebDriverWait(driver,10);
 		  Wait.until(ExpectedConditions.textToBePresentInElementLocated(page.MyAccount, "Samapti"));
 		  Actions action = new Actions(driver);
