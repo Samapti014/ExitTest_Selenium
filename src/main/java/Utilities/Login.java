@@ -15,7 +15,9 @@ public class Login  {
 	{
 		
 		 LoginPage page = new LoginPage();
+                
 
+           
 		  driver.findElement(page.login_btn).click();
 		  testlog.log(LogStatus.PASS,"Click Login Button");
 		  log.info("Click Login Button");
@@ -28,6 +30,7 @@ public class Login  {
 		  driver.findElement(page.submit).click();
 		  testlog.log(LogStatus.PASS,"Click submit Button");
 		  log.info("Click on Submit Button");
+
 		 
 	}
 }

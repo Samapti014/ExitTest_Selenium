@@ -76,6 +76,7 @@ public class BaseClassTest {
 	@SuppressWarnings("deprecation")
 	@BeforeSuite
 	public static void TestBrowser() {
+            log.info("using browser " + config_prop.get("browser_name"));
 		long waitTime = Long.parseLong(config_prop.get("global_wait_time").toString());
 		if (config_prop.getProperty("browser_name").equalsIgnoreCase("Chrome")) {
 			WebDriverManager.chromedriver().setup();

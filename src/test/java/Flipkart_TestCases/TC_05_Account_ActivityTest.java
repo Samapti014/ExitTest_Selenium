@@ -12,7 +12,7 @@ import org.testng.Assert;
 import org.testng.SkipException;
 import org.testng.annotations.Test;
 
-
+import org.openqa.selenium.NoSuchElementException;
 import com.relevantcodes.extentreports.LogStatus;
 
 import  static Utilities.Login.Valid_login;
@@ -30,8 +30,12 @@ public class TC_05_Account_ActivityTest extends BaseClassTest {
 		  SkipException("Execution Not Required");
 		 AccountSettingsPage page =  new AccountSettingsPage();
 		  OpenUrl();
-		  
-		  //Valid_login( driver,testlog ,log);
+		  try{
+		  Valid_login( driver,testlog ,log);
+              }
+              catch(NoSuchElementException e){
+			  log.info("Already logged in");
+		  }
 		  WebDriverWait Wait = new WebDriverWait(driver,10);
 		  Wait.until(ExpectedConditions.textToBePresentInElementLocated(page.MyAccount, "Samapti"));
 		  Actions action = new Actions(driver);

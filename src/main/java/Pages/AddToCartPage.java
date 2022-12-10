@@ -7,7 +7,7 @@ public class AddToCartPage {
       public By Wishlist_Item = By.xpath("//div[contains(text(),'Heavy Win')]");
       
       
-      public By Total_Item = By.xpath("//span[contains(text(),'My Wishlist (259)')]");
+      public By Total_Item = By.xpath("//body[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]");
       
       public By Cart_Icon = By.xpath("//span[contains(text(),'Cart')]");
       public By Place_order = By.xpath("//span[contains(text(),'Place Order')]");
