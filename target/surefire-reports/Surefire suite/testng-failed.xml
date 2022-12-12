@@ -3,53 +3,15 @@
 <suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="1" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="Flipkart_TestCases.TC_07_LogoTest">
+      <class name="Flipkart_TestCases.TC_03_SearchTest">
         <methods>
           <include name="TestBrowser"/>
           <include name="testCaseReport"/>
           <include name="StartTestCase"/>
-          <include name="verify_flipkart_plus"/>
-          <include name="tearDown"/>
-          <include name="verify_logo_text"/>
-        </methods>
-      </class> <!-- Flipkart_TestCases.TC_07_LogoTest -->
-      <class name="Flipkart_TestCases.TC_08_LogOutTest">
-        <methods>
-          <include name="TestBrowser"/>
-          <include name="testCaseReport"/>
-          <include name="StartTestCase"/>
-          <include name="Log_Out"/>
+          <include name="Search_According_to_Brand"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- Flipkart_TestCases.TC_08_LogOutTest -->
-      <class name="Flipkart_TestCases.TC_06_Add_to_CartTest">
-        <methods>
-          <include name="TestBrowser"/>
-          <include name="testCaseReport"/>
-          <include name="StartTestCase"/>
-          <include name="tearDown"/>
-          <include name="Get_Total_Wishlist_items"/>
-          <include name="Add_To_Cart_From_WishList"/>
-        </methods>
-      </class> <!-- Flipkart_TestCases.TC_06_Add_to_CartTest -->
-      <class name="Flipkart_TestCases.TC_05_Account_ActivityTest">
-        <methods>
-          <include name="TestBrowser"/>
-          <include name="testCaseReport"/>
-          <include name="Explore_My_Coupons"/>
-          <include name="StartTestCase"/>
-          <include name="Manage_Address"/>
-          <include name="Set_personal_information" invocation-numbers="0"/>
-          <include name="Explore_My_Notifications"/>
-          <include name="tearDown"/>
-          <include name="Explore_Gift_Cards"/>
-        </methods>
-      </class> <!-- Flipkart_TestCases.TC_05_Account_ActivityTest -->
-      <class name="Flipkart_TestCases.BaseClassTest">
-        <methods>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- Flipkart_TestCases.BaseClassTest -->
+      </class> <!-- Flipkart_TestCases.TC_03_SearchTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

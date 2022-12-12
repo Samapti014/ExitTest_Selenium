@@ -1,43 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="16" total="38" passed="22" failed="0" skipped="0">
+<testng-results ignored="17" total="38" passed="20" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-10T21:17:02 IST" name="Surefire suite" finished-at="2022-12-10T21:18:44 IST" duration-ms="101216">
+  <suite started-at="2022-12-12T12:58:38 IST" name="Surefire suite" finished-at="2022-12-12T13:01:22 IST" duration-ms="163980">
     <groups>
       <group name="AccountActivity">
-        <method signature="TC_05_Account_ActivityTest.Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object)[pri:6, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" name="Set_personal_information" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
-        <method signature="TC_05_Account_ActivityTest.Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:7, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" name="Manage_Address" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
-        <method signature="TC_05_Account_ActivityTest.Explore_My_Coupons()[pri:8, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" name="Explore_My_Coupons" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
-        <method signature="TC_05_Account_ActivityTest.Explore_My_Notifications()[pri:9, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" name="Explore_My_Notifications" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
-        <method signature="TC_05_Account_ActivityTest.Explore_Gift_Cards()[pri:10, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" name="Explore_Gift_Cards" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
+        <method signature="TC_05_Account_ActivityTest.Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object)[pri:6, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" name="Set_personal_information" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
+        <method signature="TC_05_Account_ActivityTest.Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:7, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" name="Manage_Address" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
+        <method signature="TC_05_Account_ActivityTest.Explore_My_Coupons()[pri:8, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" name="Explore_My_Coupons" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
+        <method signature="TC_05_Account_ActivityTest.Explore_My_Notifications()[pri:9, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" name="Explore_My_Notifications" class="Flipkart_TestCases.TC_05_Account_ActivityTest"/>
       </group> <!-- AccountActivity -->
       <group name="Registration">
-        <method signature="TC_01_RegistrationTest.User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@39a8312f]" name="User_Registration" class="Flipkart_TestCases.TC_01_RegistrationTest"/>
-        <method signature="TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" name="login" class="Flipkart_TestCases.TC_02_LoginTest"/>
+        <method signature="TC_01_RegistrationTest.User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@31000e60]" name="User_Registration" class="Flipkart_TestCases.TC_01_RegistrationTest"/>
+        <method signature="TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" name="login" class="Flipkart_TestCases.TC_02_LoginTest"/>
       </group> <!-- Registration -->
       <group name="Search">
-        <method signature="TC_03_SearchTest.Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" name="Search_Using_click" class="Flipkart_TestCases.TC_03_SearchTest"/>
-        <method signature="TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" name="Search_Using_Icon" class="Flipkart_TestCases.TC_03_SearchTest"/>
-        <method signature="TC_03_SearchTest.Search_From_DropDown()[pri:4, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" name="Search_From_DropDown" class="Flipkart_TestCases.TC_03_SearchTest"/>
-        <method signature="TC_03_SearchTest.Search_According_to_Brand()[pri:5, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" name="Search_According_to_Brand" class="Flipkart_TestCases.TC_03_SearchTest"/>
+        <method signature="TC_03_SearchTest.Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" name="Search_Using_click" class="Flipkart_TestCases.TC_03_SearchTest"/>
+        <method signature="TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" name="Search_Using_Icon" class="Flipkart_TestCases.TC_03_SearchTest"/>
+        <method signature="TC_03_SearchTest.Search_From_DropDown()[pri:4, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" name="Search_From_DropDown" class="Flipkart_TestCases.TC_03_SearchTest"/>
+        <method signature="TC_03_SearchTest.Search_According_to_Brand()[pri:5, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" name="Search_According_to_Brand" class="Flipkart_TestCases.TC_03_SearchTest"/>
       </group> <!-- Search -->
       <group name="header">
-        <method signature="TC_07_LogoTest.verify_logo_text()[pri:13, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" name="verify_logo_text" class="Flipkart_TestCases.TC_07_LogoTest"/>
-        <method signature="TC_07_LogoTest.verify_flipkart_plus()[pri:14, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" name="verify_flipkart_plus" class="Flipkart_TestCases.TC_07_LogoTest"/>
-        <method signature="TC_04_Become_a_sellerTest.Verify_Seller_Person_NameTest()[pri:15, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@294e5088]" name="Verify_Seller_Person_NameTest" class="Flipkart_TestCases.TC_04_Become_a_sellerTest"/>
+        <method signature="TC_07_LogoTest.verify_logo_text()[pri:13, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" name="verify_logo_text" class="Flipkart_TestCases.TC_07_LogoTest"/>
+        <method signature="TC_07_LogoTest.verify_flipkart_plus()[pri:14, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" name="verify_flipkart_plus" class="Flipkart_TestCases.TC_07_LogoTest"/>
+        <method signature="TC_04_Become_a_sellerTest.Verify_Seller_Person_NameTest()[pri:15, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@54c62d71]" name="Verify_Seller_Person_NameTest" class="Flipkart_TestCases.TC_04_Become_a_sellerTest"/>
       </group> <!-- header -->
       <group name="CartTest">
-        <method signature="TC_06_Add_to_CartTest.Add_To_Cart_From_WishList()[pri:11, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" name="Add_To_Cart_From_WishList" class="Flipkart_TestCases.TC_06_Add_to_CartTest"/>
-        <method signature="TC_06_Add_to_CartTest.Get_Total_Wishlist_items()[pri:12, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" name="Get_Total_Wishlist_items" class="Flipkart_TestCases.TC_06_Add_to_CartTest"/>
+        <method signature="TC_06_Add_to_CartTest.Add_To_Cart_From_WishList()[pri:11, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" name="Add_To_Cart_From_WishList" class="Flipkart_TestCases.TC_06_Add_to_CartTest"/>
+        <method signature="TC_06_Add_to_CartTest.Get_Total_Wishlist_items()[pri:12, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" name="Get_Total_Wishlist_items" class="Flipkart_TestCases.TC_06_Add_to_CartTest"/>
       </group> <!-- CartTest -->
       <group name="login">
-        <method signature="TC_01_RegistrationTest.User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@39a8312f]" name="User_Registration" class="Flipkart_TestCases.TC_01_RegistrationTest"/>
-        <method signature="TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" name="login" class="Flipkart_TestCases.TC_02_LoginTest"/>
+        <method signature="TC_01_RegistrationTest.User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@31000e60]" name="User_Registration" class="Flipkart_TestCases.TC_01_RegistrationTest"/>
+        <method signature="TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" name="login" class="Flipkart_TestCases.TC_02_LoginTest"/>
       </group> <!-- login -->
     </groups>
-    <test started-at="2022-12-10T21:17:02 IST" name="Surefire test" finished-at="2022-12-10T21:18:44 IST" duration-ms="101216">
+    <test started-at="2022-12-12T12:58:38 IST" name="Surefire test" finished-at="2022-12-12T13:01:22 IST" duration-ms="163980">
       <class name="Flipkart_TestCases.TC_02_LoginTest">
-        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:07 IST" name="login" data-provider="getData" finished-at="2022-12-10T21:17:09 IST" duration-ms="1885" status="PASS">
+        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:44 IST" name="login" data-provider="getData" finished-at="2022-12-12T12:58:51 IST" duration-ms="7035" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -58,7 +57,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:07 IST" name="StartTestCase" finished-at="2022-12-10T21:17:07 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:44 IST" name="StartTestCase" finished-at="2022-12-12T12:58:44 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -69,18 +68,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:09 IST" name="testCaseReport" finished-at="2022-12-10T21:17:09 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:51 IST" name="testCaseReport" finished-at="2022-12-12T12:58:51 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3] output={null}]]]>
+                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:09 IST" name="StartTestCase" finished-at="2022-12-10T21:17:09 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:51 IST" name="StartTestCase" finished-at="2022-12-12T12:58:51 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,7 +90,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:09 IST" name="login" data-provider="getData" finished-at="2022-12-10T21:17:11 IST" duration-ms="2355" status="PASS">
+        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:51 IST" name="login" data-provider="getData" finished-at="2022-12-12T12:58:54 IST" duration-ms="2649" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -112,18 +111,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:11 IST" name="testCaseReport" finished-at="2022-12-10T21:17:11 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:54 IST" name="testCaseReport" finished-at="2022-12-12T12:58:54 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3] output={null}]]]>
+                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:11 IST" name="StartTestCase" finished-at="2022-12-10T21:17:11 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:54 IST" name="StartTestCase" finished-at="2022-12-12T12:58:54 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -134,7 +133,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:11 IST" name="login" data-provider="getData" finished-at="2022-12-10T21:17:13 IST" duration-ms="1544" status="PASS">
+        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:54 IST" name="login" data-provider="getData" finished-at="2022-12-12T12:58:57 IST" duration-ms="2874" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -155,18 +154,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:13 IST" name="testCaseReport" finished-at="2022-12-10T21:17:13 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:57 IST" name="testCaseReport" finished-at="2022-12-12T12:58:57 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3] output={null}]]]>
+                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:13 IST" name="StartTestCase" finished-at="2022-12-10T21:17:13 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:57 IST" name="StartTestCase" finished-at="2022-12-12T12:58:57 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -177,7 +176,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:13 IST" name="login" data-provider="getData" finished-at="2022-12-10T21:17:14 IST" duration-ms="1602" status="PASS">
+        <test-method signature="login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:58:57 IST" name="login" data-provider="getData" finished-at="2022-12-12T12:59:16 IST" duration-ms="19578" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -198,11 +197,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3]" started-at="2022-12-10T21:17:14 IST" name="testCaseReport" finished-at="2022-12-10T21:17:14 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0]" started-at="2022-12-12T12:59:16 IST" name="testCaseReport" finished-at="2022-12-12T12:59:16 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@5f6722d3] output={null}]]]>
+                <![CDATA[[TestResult name=login status=SUCCESS method=TC_02_LoginTest.login(java.lang.Object,java.lang.Object,java.lang.Object)[pri:1, instance:Flipkart_TestCases.TC_02_LoginTest@1d470d0] output={null}]]]>
               </value>
             </param>
           </params>
@@ -211,17 +210,17 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_02_LoginTest -->
       <class name="Flipkart_TestCases.BaseClassTest">
-        <test-method is-config="true" signature="TestBrowser()[pri:0, instance:Flipkart_TestCases.BaseClassTest@6c45ee6e]" started-at="2022-12-10T21:16:25 IST" name="TestBrowser" finished-at="2022-12-10T21:17:02 IST" duration-ms="37801" status="PASS">
+        <test-method is-config="true" signature="TestBrowser()[pri:0, instance:Flipkart_TestCases.BaseClassTest@fade1fc]" started-at="2022-12-12T12:58:03 IST" name="TestBrowser" finished-at="2022-12-12T12:58:38 IST" duration-ms="34981" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestBrowser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Flipkart_TestCases.BaseClassTest@6c45ee6e]" started-at="2022-12-10T21:18:44 IST" name="tearDown" finished-at="2022-12-10T21:18:45 IST" duration-ms="1415" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Flipkart_TestCases.BaseClassTest@fade1fc]" started-at="2022-12-12T13:01:22 IST" name="tearDown" finished-at="2022-12-12T13:01:24 IST" duration-ms="1436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Flipkart_TestCases.BaseClassTest -->
       <class name="Flipkart_TestCases.TC_08_LogOutTest">
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_08_LogOutTest@5911e990]" started-at="2022-12-10T21:18:37 IST" name="StartTestCase" finished-at="2022-12-10T21:18:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_08_LogOutTest@48d5f34e]" started-at="2022-12-12T13:01:17 IST" name="StartTestCase" finished-at="2022-12-12T13:01:17 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -232,15 +231,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Log_Out()[pri:16, instance:Flipkart_TestCases.TC_08_LogOutTest@5911e990]" started-at="2022-12-10T21:18:37 IST" name="Log_Out" finished-at="2022-12-10T21:18:44 IST" duration-ms="7064" status="PASS">
+        <test-method signature="Log_Out()[pri:16, instance:Flipkart_TestCases.TC_08_LogOutTest@48d5f34e]" started-at="2022-12-12T13:01:17 IST" name="Log_Out" finished-at="2022-12-12T13:01:22 IST" duration-ms="5435" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Log_Out -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_08_LogOutTest@5911e990]" started-at="2022-12-10T21:18:44 IST" name="testCaseReport" finished-at="2022-12-10T21:18:44 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_08_LogOutTest@48d5f34e]" started-at="2022-12-12T13:01:22 IST" name="testCaseReport" finished-at="2022-12-12T13:01:22 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Log_Out status=SUCCESS method=TC_08_LogOutTest.Log_Out()[pri:16, instance:Flipkart_TestCases.TC_08_LogOutTest@5911e990] output={null}]]]>
+                <![CDATA[[TestResult name=Log_Out status=SUCCESS method=TC_08_LogOutTest.Log_Out()[pri:16, instance:Flipkart_TestCases.TC_08_LogOutTest@48d5f34e] output={null}]]]>
               </value>
             </param>
           </params>
@@ -249,7 +248,7 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_08_LogOutTest -->
       <class name="Flipkart_TestCases.TC_03_SearchTest">
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:15 IST" name="StartTestCase" finished-at="2022-12-10T21:17:15 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:16 IST" name="StartTestCase" finished-at="2022-12-12T12:59:16 IST" duration-ms="8" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -260,7 +259,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:15 IST" name="Search_Using_click" data-provider="getData" finished-at="2022-12-10T21:17:17 IST" duration-ms="2523" status="PASS">
+        <test-method signature="Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:16 IST" name="Search_Using_click" data-provider="getData" finished-at="2022-12-12T12:59:20 IST" duration-ms="3776" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -276,18 +275,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search_Using_click -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:17 IST" name="testCaseReport" finished-at="2022-12-10T21:17:17 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:20 IST" name="testCaseReport" finished-at="2022-12-12T12:59:20 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Search_Using_click status=SUCCESS method=TC_03_SearchTest.Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8] output={null}]]]>
+                <![CDATA[[TestResult name=Search_Using_click status=SUCCESS method=TC_03_SearchTest.Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:17 IST" name="StartTestCase" finished-at="2022-12-10T21:17:17 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:20 IST" name="StartTestCase" finished-at="2022-12-12T12:59:20 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -298,7 +297,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:17 IST" name="Search_Using_click" data-provider="getData" finished-at="2022-12-10T21:17:20 IST" duration-ms="2890" status="PASS">
+        <test-method signature="Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:20 IST" name="Search_Using_click" data-provider="getData" finished-at="2022-12-12T12:59:26 IST" duration-ms="5572" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -314,29 +313,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search_Using_click -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:20 IST" name="testCaseReport" finished-at="2022-12-10T21:17:20 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:26 IST" name="testCaseReport" finished-at="2022-12-12T12:59:26 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Search_Using_click status=SUCCESS method=TC_03_SearchTest.Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8] output={null}]]]>
+                <![CDATA[[TestResult name=Search_Using_click status=SUCCESS method=TC_03_SearchTest.Search_Using_click(java.lang.Object,java.lang.Object)[pri:2, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:20 IST" name="StartTestCase" finished-at="2022-12-10T21:17:20 IST" duration-ms="2" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public static void Flipkart_TestCases.TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object) throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- StartTestCase -->
-        <test-method signature="Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:20 IST" name="Search_Using_Icon" data-provider="getData" finished-at="2022-12-10T21:17:23 IST" duration-ms="3164" status="PASS">
+        <test-method signature="Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:26 IST" name="Search_Using_Icon" data-provider="getData" finished-at="2022-12-12T12:59:30 IST" duration-ms="4660" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -352,18 +340,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search_Using_Icon -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:23 IST" name="testCaseReport" finished-at="2022-12-10T21:17:23 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Search_Using_Icon status=SUCCESS method=TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:23 IST" name="StartTestCase" finished-at="2022-12-10T21:17:23 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:26 IST" name="StartTestCase" finished-at="2022-12-12T12:59:26 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -374,7 +351,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:23 IST" name="Search_Using_Icon" data-provider="getData" finished-at="2022-12-10T21:17:26 IST" duration-ms="3038" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:30 IST" name="testCaseReport" finished-at="2022-12-12T12:59:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Search_Using_Icon status=SUCCESS method=TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseReport -->
+        <test-method signature="Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:30 IST" name="Search_Using_Icon" data-provider="getData" finished-at="2022-12-12T12:59:34 IST" duration-ms="3978" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -390,22 +378,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search_Using_Icon -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:26 IST" name="testCaseReport" finished-at="2022-12-10T21:17:26 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:30 IST" name="StartTestCase" finished-at="2022-12-12T12:59:30 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Search_Using_Icon status=SUCCESS method=TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8] output={null}]]]>
+                <![CDATA[public static void Flipkart_TestCases.TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTestCase -->
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:34 IST" name="testCaseReport" finished-at="2022-12-12T12:59:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Search_Using_Icon status=SUCCESS method=TC_03_SearchTest.Search_Using_Icon(java.lang.Object,java.lang.Object)[pri:3, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method signature="Search_From_DropDown()[pri:4, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:26 IST" name="Search_From_DropDown" finished-at="2022-12-10T21:17:29 IST" duration-ms="2988" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Search_From_DropDown -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:26 IST" name="StartTestCase" finished-at="2022-12-10T21:17:26 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:34 IST" name="StartTestCase" finished-at="2022-12-12T12:59:34 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -416,18 +411,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:29 IST" name="testCaseReport" finished-at="2022-12-10T21:17:29 IST" duration-ms="1" status="PASS">
+        <test-method signature="Search_From_DropDown()[pri:4, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:34 IST" name="Search_From_DropDown" finished-at="2022-12-12T12:59:38 IST" duration-ms="4141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_From_DropDown -->
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:38 IST" name="testCaseReport" finished-at="2022-12-12T12:59:38 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Search_From_DropDown status=SUCCESS method=TC_03_SearchTest.Search_From_DropDown()[pri:4, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8] output={null}]]]>
+                <![CDATA[[TestResult name=Search_From_DropDown status=SUCCESS method=TC_03_SearchTest.Search_From_DropDown()[pri:4, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:29 IST" name="StartTestCase" finished-at="2022-12-10T21:17:29 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:38 IST" name="StartTestCase" finished-at="2022-12-12T12:59:38 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -438,15 +437,88 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Search_According_to_Brand()[pri:5, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:29 IST" name="Search_According_to_Brand" finished-at="2022-12-10T21:17:33 IST" duration-ms="3500" status="PASS">
+        <test-method signature="Search_According_to_Brand()[pri:5, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:38 IST" name="Search_According_to_Brand" finished-at="2022-12-12T12:59:54 IST" duration-ms="15216" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//body/div[@id='container']/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/img[1]"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-1T2N573', ip: '192.168.43.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\SAMAPT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 28f6e6bdb61d588d2b299ae37e1c019b
+*** Element info: {Using=xpath, value=//body/div[@id='container']/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/img[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//body/div[@id='container']/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/img[1]"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-1T2N573', ip: '192.168.43.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\SAMAPT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 28f6e6bdb61d588d2b299ae37e1c019b
+*** Element info: {Using=xpath, value=//body/div[@id='container']/div[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/img[1]}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at Flipkart_TestCases.TC_03_SearchTest.Search_According_to_Brand(TC_03_SearchTest.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search_According_to_Brand -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8]" started-at="2022-12-10T21:17:33 IST" name="testCaseReport" finished-at="2022-12-10T21:17:33 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1]" started-at="2022-12-12T12:59:54 IST" name="testCaseReport" finished-at="2022-12-12T12:59:54 IST" duration-ms="642" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Search_According_to_Brand status=SUCCESS method=TC_03_SearchTest.Search_According_to_Brand()[pri:5, instance:Flipkart_TestCases.TC_03_SearchTest@2c532cd8] output={null}]]]>
+                <![CDATA[[TestResult name=Search_According_to_Brand status=FAILURE method=TC_03_SearchTest.Search_According_to_Brand()[pri:5, instance:Flipkart_TestCases.TC_03_SearchTest@24d09c1] output={null}]]]>
               </value>
             </param>
           </params>
@@ -455,7 +527,7 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_03_SearchTest -->
       <class name="Flipkart_TestCases.TC_04_Become_a_sellerTest">
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@294e5088]" started-at="2022-12-10T21:17:33 IST" name="StartTestCase" finished-at="2022-12-10T21:17:33 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@54c62d71]" started-at="2022-12-12T12:59:54 IST" name="StartTestCase" finished-at="2022-12-12T12:59:54 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -466,15 +538,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Verify_Seller_Person_NameTest()[pri:15, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@294e5088]" started-at="2022-12-10T21:17:33 IST" name="Verify_Seller_Person_NameTest" finished-at="2022-12-10T21:17:43 IST" duration-ms="10040" status="PASS">
+        <test-method signature="Verify_Seller_Person_NameTest()[pri:15, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@54c62d71]" started-at="2022-12-12T12:59:54 IST" name="Verify_Seller_Person_NameTest" finished-at="2022-12-12T13:00:13 IST" duration-ms="18737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Seller_Person_NameTest -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@294e5088]" started-at="2022-12-10T21:17:43 IST" name="testCaseReport" finished-at="2022-12-10T21:17:43 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@54c62d71]" started-at="2022-12-12T13:00:13 IST" name="testCaseReport" finished-at="2022-12-12T13:00:13 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Verify_Seller_Person_NameTest status=SUCCESS method=TC_04_Become_a_sellerTest.Verify_Seller_Person_NameTest()[pri:15, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@294e5088] output={null}]]]>
+                <![CDATA[[TestResult name=Verify_Seller_Person_NameTest status=SUCCESS method=TC_04_Become_a_sellerTest.Verify_Seller_Person_NameTest()[pri:15, instance:Flipkart_TestCases.TC_04_Become_a_sellerTest@54c62d71] output={null}]]]>
               </value>
             </param>
           </params>
@@ -483,7 +555,7 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_04_Become_a_sellerTest -->
       <class name="Flipkart_TestCases.TC_07_LogoTest">
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" started-at="2022-12-10T21:18:33 IST" name="StartTestCase" finished-at="2022-12-10T21:18:33 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" started-at="2022-12-12T13:01:13 IST" name="StartTestCase" finished-at="2022-12-12T13:01:13 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -494,26 +566,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="verify_logo_text()[pri:13, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" started-at="2022-12-10T21:18:33 IST" name="verify_logo_text" finished-at="2022-12-10T21:18:35 IST" duration-ms="2287" status="PASS">
+        <test-method signature="verify_logo_text()[pri:13, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" started-at="2022-12-12T13:01:13 IST" name="verify_logo_text" finished-at="2022-12-12T13:01:15 IST" duration-ms="2302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_logo_text -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" started-at="2022-12-10T21:18:35 IST" name="testCaseReport" finished-at="2022-12-10T21:18:35 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" started-at="2022-12-12T13:01:15 IST" name="testCaseReport" finished-at="2022-12-12T13:01:15 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verify_logo_text status=SUCCESS method=TC_07_LogoTest.verify_logo_text()[pri:13, instance:Flipkart_TestCases.TC_07_LogoTest@2002348] output={null}]]]>
+                <![CDATA[[TestResult name=verify_logo_text status=SUCCESS method=TC_07_LogoTest.verify_logo_text()[pri:13, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method signature="verify_flipkart_plus()[pri:14, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" started-at="2022-12-10T21:18:35 IST" name="verify_flipkart_plus" finished-at="2022-12-10T21:18:37 IST" duration-ms="1356" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_flipkart_plus -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" started-at="2022-12-10T21:18:35 IST" name="StartTestCase" finished-at="2022-12-10T21:18:35 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" started-at="2022-12-12T13:01:15 IST" name="StartTestCase" finished-at="2022-12-12T13:01:15 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -524,11 +592,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2002348]" started-at="2022-12-10T21:18:37 IST" name="testCaseReport" finished-at="2022-12-10T21:18:37 IST" duration-ms="0" status="PASS">
+        <test-method signature="verify_flipkart_plus()[pri:14, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" started-at="2022-12-12T13:01:15 IST" name="verify_flipkart_plus" finished-at="2022-12-12T13:01:17 IST" duration-ms="1664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_flipkart_plus -->
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39]" started-at="2022-12-12T13:01:17 IST" name="testCaseReport" finished-at="2022-12-12T13:01:17 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verify_flipkart_plus status=SUCCESS method=TC_07_LogoTest.verify_flipkart_plus()[pri:14, instance:Flipkart_TestCases.TC_07_LogoTest@2002348] output={null}]]]>
+                <![CDATA[[TestResult name=verify_flipkart_plus status=SUCCESS method=TC_07_LogoTest.verify_flipkart_plus()[pri:14, instance:Flipkart_TestCases.TC_07_LogoTest@2d1dee39] output={null}]]]>
               </value>
             </param>
           </params>
@@ -537,7 +609,18 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_07_LogoTest -->
       <class name="Flipkart_TestCases.TC_05_Account_ActivityTest">
-        <test-method signature="Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object)[pri:6, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:17:43 IST" name="Set_personal_information" data-provider="getData" finished-at="2022-12-10T21:17:58 IST" duration-ms="14975" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:13 IST" name="StartTestCase" finished-at="2022-12-12T13:00:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void Flipkart_TestCases.TC_05_Account_ActivityTest.Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTestCase -->
+        <test-method signature="Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object)[pri:6, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:13 IST" name="Set_personal_information" data-provider="getData" finished-at="2022-12-12T13:00:36 IST" duration-ms="23371" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -558,29 +641,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Set_personal_information -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:17:43 IST" name="StartTestCase" finished-at="2022-12-10T21:17:43 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:36 IST" name="testCaseReport" finished-at="2022-12-12T13:00:36 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public static void Flipkart_TestCases.TC_05_Account_ActivityTest.Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object) throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- StartTestCase -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:17:58 IST" name="testCaseReport" finished-at="2022-12-10T21:17:58 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Set_personal_information status=SUCCESS method=TC_05_Account_ActivityTest.Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object)[pri:6, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7] output={null}]]]>
+                <![CDATA[[TestResult name=Set_personal_information status=SUCCESS method=TC_05_Account_ActivityTest.Set_personal_information(java.lang.Object,java.lang.Object,java.lang.Object)[pri:6, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method signature="Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:7, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:17:58 IST" name="Manage_Address" data-provider="getData" finished-at="2022-12-10T21:18:01 IST" duration-ms="3041" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:37 IST" name="StartTestCase" finished-at="2022-12-12T13:00:37 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void Flipkart_TestCases.TC_05_Account_ActivityTest.Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTestCase -->
+        <test-method signature="Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:7, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:37 IST" name="Manage_Address" data-provider="getData" finished-at="2022-12-12T13:00:44 IST" duration-ms="7097" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -616,33 +699,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Manage_Address -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:17:58 IST" name="StartTestCase" finished-at="2022-12-10T21:17:58 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:44 IST" name="testCaseReport" finished-at="2022-12-12T13:00:44 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public static void Flipkart_TestCases.TC_05_Account_ActivityTest.Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- StartTestCase -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:01 IST" name="testCaseReport" finished-at="2022-12-10T21:18:01 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Manage_Address status=SUCCESS method=TC_05_Account_ActivityTest.Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:7, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7] output={null}]]]>
+                <![CDATA[[TestResult name=Manage_Address status=SUCCESS method=TC_05_Account_ActivityTest.Manage_Address(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:7, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method signature="Explore_My_Coupons()[pri:8, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:01 IST" name="Explore_My_Coupons" finished-at="2022-12-10T21:18:03 IST" duration-ms="1949" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Explore_My_Coupons -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:01 IST" name="StartTestCase" finished-at="2022-12-10T21:18:01 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:44 IST" name="StartTestCase" finished-at="2022-12-12T13:00:44 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -653,18 +721,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:03 IST" name="testCaseReport" finished-at="2022-12-10T21:18:03 IST" duration-ms="1" status="PASS">
+        <test-method signature="Explore_My_Coupons()[pri:8, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:44 IST" name="Explore_My_Coupons" finished-at="2022-12-12T13:00:47 IST" duration-ms="3846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Explore_My_Coupons -->
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:47 IST" name="testCaseReport" finished-at="2022-12-12T13:00:47 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Explore_My_Coupons status=SUCCESS method=TC_05_Account_ActivityTest.Explore_My_Coupons()[pri:8, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7] output={null}]]]>
+                <![CDATA[[TestResult name=Explore_My_Coupons status=SUCCESS method=TC_05_Account_ActivityTest.Explore_My_Coupons()[pri:8, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:03 IST" name="StartTestCase" finished-at="2022-12-10T21:18:03 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:47 IST" name="StartTestCase" finished-at="2022-12-12T13:00:47 IST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -675,41 +747,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Explore_My_Notifications()[pri:9, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:03 IST" name="Explore_My_Notifications" finished-at="2022-12-10T21:18:08 IST" duration-ms="5071" status="PASS">
+        <test-method signature="Explore_My_Notifications()[pri:9, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:47 IST" name="Explore_My_Notifications" finished-at="2022-12-12T13:00:51 IST" duration-ms="3124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Explore_My_Notifications -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:08 IST" name="testCaseReport" finished-at="2022-12-10T21:18:08 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87]" started-at="2022-12-12T13:00:51 IST" name="testCaseReport" finished-at="2022-12-12T13:00:51 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Explore_My_Notifications status=SUCCESS method=TC_05_Account_ActivityTest.Explore_My_Notifications()[pri:9, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:08 IST" name="StartTestCase" finished-at="2022-12-10T21:18:08 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public static void Flipkart_TestCases.TC_05_Account_ActivityTest.Explore_Gift_Cards() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- StartTestCase -->
-        <test-method signature="Explore_Gift_Cards()[pri:10, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:08 IST" name="Explore_Gift_Cards" finished-at="2022-12-10T21:18:13 IST" duration-ms="4890" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Explore_Gift_Cards -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7]" started-at="2022-12-10T21:18:13 IST" name="testCaseReport" finished-at="2022-12-10T21:18:13 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Explore_Gift_Cards status=SUCCESS method=TC_05_Account_ActivityTest.Explore_Gift_Cards()[pri:10, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@51972dc7] output={null}]]]>
+                <![CDATA[[TestResult name=Explore_My_Notifications status=SUCCESS method=TC_05_Account_ActivityTest.Explore_My_Notifications()[pri:9, instance:Flipkart_TestCases.TC_05_Account_ActivityTest@65045a87] output={null}]]]>
               </value>
             </param>
           </params>
@@ -718,7 +764,7 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_05_Account_ActivityTest -->
       <class name="Flipkart_TestCases.TC_06_Add_to_CartTest">
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" started-at="2022-12-10T21:18:13 IST" name="StartTestCase" finished-at="2022-12-10T21:18:13 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" started-at="2022-12-12T13:00:51 IST" name="StartTestCase" finished-at="2022-12-12T13:00:51 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -729,22 +775,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Add_To_Cart_From_WishList()[pri:11, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" started-at="2022-12-10T21:18:13 IST" name="Add_To_Cart_From_WishList" finished-at="2022-12-10T21:18:26 IST" duration-ms="12727" status="PASS">
+        <test-method signature="Add_To_Cart_From_WishList()[pri:11, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" started-at="2022-12-12T13:00:51 IST" name="Add_To_Cart_From_WishList" finished-at="2022-12-12T13:01:04 IST" duration-ms="13644" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Add_To_Cart_From_WishList -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" started-at="2022-12-10T21:18:26 IST" name="testCaseReport" finished-at="2022-12-10T21:18:26 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" started-at="2022-12-12T13:01:04 IST" name="testCaseReport" finished-at="2022-12-12T13:01:04 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Add_To_Cart_From_WishList status=SUCCESS method=TC_06_Add_to_CartTest.Add_To_Cart_From_WishList()[pri:11, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c] output={null}]]]>
+                <![CDATA[[TestResult name=Add_To_Cart_From_WishList status=SUCCESS method=TC_06_Add_to_CartTest.Add_To_Cart_From_WishList()[pri:11, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCaseReport -->
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" started-at="2022-12-10T21:18:26 IST" name="StartTestCase" finished-at="2022-12-10T21:18:26 IST" duration-ms="1" status="PASS">
+        <test-method signature="Get_Total_Wishlist_items()[pri:12, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" started-at="2022-12-12T13:01:04 IST" name="Get_Total_Wishlist_items" finished-at="2022-12-12T13:01:13 IST" duration-ms="8739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Total_Wishlist_items -->
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" started-at="2022-12-12T13:01:04 IST" name="StartTestCase" finished-at="2022-12-12T13:01:04 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -755,15 +805,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="Get_Total_Wishlist_items()[pri:12, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" started-at="2022-12-10T21:18:26 IST" name="Get_Total_Wishlist_items" finished-at="2022-12-10T21:18:33 IST" duration-ms="7430" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Get_Total_Wishlist_items -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c]" started-at="2022-12-10T21:18:33 IST" name="testCaseReport" finished-at="2022-12-10T21:18:33 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407]" started-at="2022-12-12T13:01:13 IST" name="testCaseReport" finished-at="2022-12-12T13:01:13 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Get_Total_Wishlist_items status=SUCCESS method=TC_06_Add_to_CartTest.Get_Total_Wishlist_items()[pri:12, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@3700ec9c] output={null}]]]>
+                <![CDATA[[TestResult name=Get_Total_Wishlist_items status=SUCCESS method=TC_06_Add_to_CartTest.Get_Total_Wishlist_items()[pri:12, instance:Flipkart_TestCases.TC_06_Add_to_CartTest@47f4e407] output={null}]]]>
               </value>
             </param>
           </params>
@@ -772,7 +818,7 @@
         </test-method> <!-- testCaseReport -->
       </class> <!-- Flipkart_TestCases.TC_06_Add_to_CartTest -->
       <class name="Flipkart_TestCases.TC_01_RegistrationTest">
-        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@39a8312f]" started-at="2022-12-10T21:17:04 IST" name="StartTestCase" finished-at="2022-12-10T21:17:04 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="StartTestCase(java.lang.reflect.Method)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@31000e60]" started-at="2022-12-12T12:58:40 IST" name="StartTestCase" finished-at="2022-12-12T12:58:40 IST" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -783,7 +829,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTestCase -->
-        <test-method signature="User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@39a8312f]" started-at="2022-12-10T21:17:04 IST" name="User_Registration" data-provider="getData" finished-at="2022-12-10T21:17:07 IST" duration-ms="3506" status="PASS">
+        <test-method signature="User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@31000e60]" started-at="2022-12-12T12:58:40 IST" name="User_Registration" data-provider="getData" finished-at="2022-12-12T12:58:44 IST" duration-ms="4367" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -809,11 +855,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- User_Registration -->
-        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@39a8312f]" started-at="2022-12-10T21:17:07 IST" name="testCaseReport" finished-at="2022-12-10T21:17:07 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="testCaseReport(org.testng.ITestResult)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@31000e60]" started-at="2022-12-12T12:58:44 IST" name="testCaseReport" finished-at="2022-12-12T12:58:44 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=User_Registration status=SUCCESS method=TC_01_RegistrationTest.User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@39a8312f] output={null}]]]>
+                <![CDATA[[TestResult name=User_Registration status=SUCCESS method=TC_01_RegistrationTest.User_Registration(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:Flipkart_TestCases.TC_01_RegistrationTest@31000e60] output={null}]]]>
               </value>
             </param>
           </params>

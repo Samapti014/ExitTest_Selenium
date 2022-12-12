@@ -1,0 +1,361 @@
+# Created at 2022-12-11T23:18:55.916
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-12-11T23:18:59.865
+Unexpected IOException with stream: start1
+
+
+# Created at 2022-12-11T23:18:59.905
+Unexpected IOException: 8,1,Flipkart_TestCases.BaseClassTest,TestBrowser(Flipkart_TestCases.BaseClassTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},BaseClassTest.TestBrowser:119->Remove_pop_Up:151 \00BB NoSuchWindow no such window...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button}\000A\0009at Flipkart_TestCases.BaseClassTest.Remove_pop_Up(BaseClassTest.java:151)\000A\0009at Flipkart_TestCases.BaseClassTest.TestBrowser(BaseClassTest.java:119)\000A
+
+
+# Created at 2022-12-11T23:19:00.513
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_01_RegistrationTest,StartTestCase(Flipkart_TestCases.TC_01_RegistrationTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.515
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_01_RegistrationTest,User_Registration(Flipkart_TestCases.TC_01_RegistrationTest),Registration\002Clogin,null,null
+
+
+# Created at 2022-12-11T23:19:00.515
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_01_RegistrationTest,User_Registration(Flipkart_TestCases.TC_01_RegistrationTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.516
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_01_RegistrationTest,testCaseReport(Flipkart_TestCases.TC_01_RegistrationTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.572
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,StartTestCase(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.572
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),Registration\002Clogin,null,null
+
+
+# Created at 2022-12-11T23:19:00.575
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.575
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,testCaseReport(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.577
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,StartTestCase(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.578
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),Registration\002Clogin,null,null
+
+
+# Created at 2022-12-11T23:19:00.579
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.580
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,testCaseReport(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.581
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,StartTestCase(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.582
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),Registration\002Clogin,null,null
+
+
+# Created at 2022-12-11T23:19:00.583
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.584
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,testCaseReport(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.585
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,StartTestCase(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.586
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),Registration\002Clogin,null,null
+
+
+# Created at 2022-12-11T23:19:00.588
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,login(Flipkart_TestCases.TC_02_LoginTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.589
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_02_LoginTest,testCaseReport(Flipkart_TestCases.TC_02_LoginTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.633
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,StartTestCase(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.635
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_click(Flipkart_TestCases.TC_03_SearchTest),Search,null,null
+
+
+# Created at 2022-12-11T23:19:00.636
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_click(Flipkart_TestCases.TC_03_SearchTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.637
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,testCaseReport(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.638
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,StartTestCase(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.639
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_click(Flipkart_TestCases.TC_03_SearchTest),Search,null,null
+
+
+# Created at 2022-12-11T23:19:00.640
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_click(Flipkart_TestCases.TC_03_SearchTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.641
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,testCaseReport(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.681
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,StartTestCase(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.681
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_Icon(Flipkart_TestCases.TC_03_SearchTest),Search,null,null
+
+
+# Created at 2022-12-11T23:19:00.682
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_Icon(Flipkart_TestCases.TC_03_SearchTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.683
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,testCaseReport(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.685
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,StartTestCase(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.686
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_Icon(Flipkart_TestCases.TC_03_SearchTest),Search,null,null
+
+
+# Created at 2022-12-11T23:19:00.687
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,Search_Using_Icon(Flipkart_TestCases.TC_03_SearchTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.687
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,testCaseReport(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.688
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,StartTestCase(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.689
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_03_SearchTest,Search_From_DropDown(Flipkart_TestCases.TC_03_SearchTest),Search,null,null
+
+
+# Created at 2022-12-11T23:19:00.690
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,Search_From_DropDown(Flipkart_TestCases.TC_03_SearchTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.690
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,testCaseReport(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.693
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,StartTestCase(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.694
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_03_SearchTest,Search_According_to_Brand(Flipkart_TestCases.TC_03_SearchTest),Search,null,null
+
+
+# Created at 2022-12-11T23:19:00.694
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,Search_According_to_Brand(Flipkart_TestCases.TC_03_SearchTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.695
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_03_SearchTest,testCaseReport(Flipkart_TestCases.TC_03_SearchTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.696
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_04_Become_a_sellerTest,StartTestCase(Flipkart_TestCases.TC_04_Become_a_sellerTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.697
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_04_Become_a_sellerTest,Verify_Seller_Person_NameTest(Flipkart_TestCases.TC_04_Become_a_sellerTest),header,null,null
+
+
+# Created at 2022-12-11T23:19:00.698
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_04_Become_a_sellerTest,Verify_Seller_Person_NameTest(Flipkart_TestCases.TC_04_Become_a_sellerTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.699
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_04_Become_a_sellerTest,testCaseReport(Flipkart_TestCases.TC_04_Become_a_sellerTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.730
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,StartTestCase(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.731
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Set_personal_information(Flipkart_TestCases.TC_05_Account_ActivityTest),AccountActivity,null,null
+
+
+# Created at 2022-12-11T23:19:00.732
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Set_personal_information(Flipkart_TestCases.TC_05_Account_ActivityTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.732
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,testCaseReport(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.767
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,StartTestCase(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.767
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Manage_Address(Flipkart_TestCases.TC_05_Account_ActivityTest),AccountActivity,null,null
+
+
+# Created at 2022-12-11T23:19:00.768
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Manage_Address(Flipkart_TestCases.TC_05_Account_ActivityTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.769
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,testCaseReport(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.771
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,StartTestCase(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.771
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Explore_My_Coupons(Flipkart_TestCases.TC_05_Account_ActivityTest),AccountActivity,null,null
+
+
+# Created at 2022-12-11T23:19:00.772
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Explore_My_Coupons(Flipkart_TestCases.TC_05_Account_ActivityTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.773
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,testCaseReport(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.773
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,StartTestCase(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.775
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Explore_My_Notifications(Flipkart_TestCases.TC_05_Account_ActivityTest),AccountActivity,null,null
+
+
+# Created at 2022-12-11T23:19:00.776
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,Explore_My_Notifications(Flipkart_TestCases.TC_05_Account_ActivityTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.777
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_05_Account_ActivityTest,testCaseReport(Flipkart_TestCases.TC_05_Account_ActivityTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.778
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_06_Add_to_CartTest,StartTestCase(Flipkart_TestCases.TC_06_Add_to_CartTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.779
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_06_Add_to_CartTest,Add_To_Cart_From_WishList(Flipkart_TestCases.TC_06_Add_to_CartTest),CartTest,null,null
+
+
+# Created at 2022-12-11T23:19:00.780
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_06_Add_to_CartTest,Add_To_Cart_From_WishList(Flipkart_TestCases.TC_06_Add_to_CartTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.781
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_06_Add_to_CartTest,testCaseReport(Flipkart_TestCases.TC_06_Add_to_CartTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.783
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_06_Add_to_CartTest,StartTestCase(Flipkart_TestCases.TC_06_Add_to_CartTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.784
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_06_Add_to_CartTest,Get_Total_Wishlist_items(Flipkart_TestCases.TC_06_Add_to_CartTest),CartTest,null,null
+
+
+# Created at 2022-12-11T23:19:00.785
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_06_Add_to_CartTest,Get_Total_Wishlist_items(Flipkart_TestCases.TC_06_Add_to_CartTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.786
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_06_Add_to_CartTest,testCaseReport(Flipkart_TestCases.TC_06_Add_to_CartTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.788
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_07_LogoTest,StartTestCase(Flipkart_TestCases.TC_07_LogoTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.789
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_07_LogoTest,verify_logo_text(Flipkart_TestCases.TC_07_LogoTest),header,null,null
+
+
+# Created at 2022-12-11T23:19:00.790
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_07_LogoTest,verify_logo_text(Flipkart_TestCases.TC_07_LogoTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.791
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_07_LogoTest,testCaseReport(Flipkart_TestCases.TC_07_LogoTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.793
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_07_LogoTest,StartTestCase(Flipkart_TestCases.TC_07_LogoTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.794
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_07_LogoTest,verify_flipkart_plus(Flipkart_TestCases.TC_07_LogoTest),header,null,null
+
+
+# Created at 2022-12-11T23:19:00.795
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_07_LogoTest,verify_flipkart_plus(Flipkart_TestCases.TC_07_LogoTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.797
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_07_LogoTest,testCaseReport(Flipkart_TestCases.TC_07_LogoTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.798
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_08_LogOutTest,StartTestCase(Flipkart_TestCases.TC_08_LogOutTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.799
+Unexpected IOException: 5,1,Flipkart_TestCases.TC_08_LogOutTest,Log_Out(Flipkart_TestCases.TC_08_LogOutTest),Flipkart_TestCases.TC_08_LogOutTest,null,null
+
+
+# Created at 2022-12-11T23:19:00.800
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_08_LogOutTest,Log_Out(Flipkart_TestCases.TC_08_LogOutTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=108.0.5359.99)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'IN-1T2N573'\002C ip: '192.168.43.10'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.5'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.99\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CSAMAPT~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62994}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: dbadc6d2ba5f5f25812467cbd6d76121\000A*** Element info: {Using=xpath\002C value=/html/body/div[2]/div/div/button},null
+
+
+# Created at 2022-12-11T23:19:00.801
+Unexpected IOException: 9,1,Flipkart_TestCases.TC_08_LogOutTest,testCaseReport(Flipkart_TestCases.TC_08_LogOutTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:00.866
+Unexpected IOException: 9,1,Flipkart_TestCases.BaseClassTest,tearDown(Flipkart_TestCases.BaseClassTest),null,null,null
+
+
+# Created at 2022-12-11T23:19:01.047
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,TestSuite,null,null,null
+
+
